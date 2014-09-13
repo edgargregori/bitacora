@@ -1,0 +1,11 @@
+2. Config VMBox ugregbox, 
+    via: ssh,
+    object: mysql
+              client[host] to 
+              server[guest]
+            php
+              server[guest]
+1. 
+            apache2
+              server[guest]
+               
